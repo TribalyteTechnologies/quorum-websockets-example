@@ -1,0 +1,27 @@
+{
+  "name": "quorum-websockets-example",
+  "version": "1.0.0",
+  "description": "quorum-websockets-example",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle-contract": "4.0.23",
+    "web3": "1.0.0-beta.55"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TribalyteTechnologies/quorum-websockets-example.git"
+  },
+  "author": "Tribalyte Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TribalyteTechnologies/quorum-websockets-example/issues"
+  },
+  "homepage": "https://github.com/TribalyteTechnologies/quorum-websockets-example#readme"
+}
