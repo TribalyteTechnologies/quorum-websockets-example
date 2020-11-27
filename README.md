@@ -32,3 +32,5 @@ We are calling smart contract methods that will change the state of the contract
 Executing node ```app.js``` setProfile will be called and change the state of the contract
 
 On other shell execute node ```eventListener.js``` and you will watch the events emited by the contract.
+
+a
